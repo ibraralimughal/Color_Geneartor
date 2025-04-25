@@ -19,4 +19,5 @@ function getColors (){
     
     
 }
+// this is first comment
 // getColors()
